@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Walk LWP</string>
+	<string name="description">A Live Wallpaper simulating a Random Walk</string>
+	<string name="wallpapers">Random Walk Wallpaper</string>
+</resources>
